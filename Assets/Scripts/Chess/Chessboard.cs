@@ -1135,8 +1135,8 @@ public class Chessboard : MonoBehaviour
                 piece.transform.SetParent(_tPoolKing);
                 break;
         }
-        
-        piece.transform.localScale = Vector3.one;
+
+        piece.SetScale(Vector3.one, true);
     }
 
     ////////////////////////////////////////////////////////////////////////////////////////////////////////////////
