@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6af9dc24dfb8dd4bac3c640f7383a4c, type: 3}
+  m_Name: Repository Audio Files
+  m_EditorClassIdentifier: 
+  mouseHover: {fileID: 8300000, guid: d344511357806aa4db58cb62a9b03911, type: 3}
+  mouseClick: {fileID: 8300000, guid: 21113fc9021d28548a0d915bfa3dd6b7, type: 3}
+  uiClick: {fileID: 8300000, guid: bd593ad2db0bbb24bb5c209420e6692c, type: 3}
+  move: {fileID: 8300000, guid: f59d89c76b1c3ef47a04532eb8ec2dda, type: 3}
+  moveKill: {fileID: 8300000, guid: b512de773b25d4d46896ed9f9478e70b, type: 3}
+  castling: {fileID: 8300000, guid: 35e1ca8f60363404095e16a089b49a7c, type: 3}
+  promotion: {fileID: 8300000, guid: 1376d90a48db5904b93390d44952058a, type: 3}
+  win: {fileID: 8300000, guid: ef1365e438ae7cd43b7d529b411b6635, type: 3}
+  lost: {fileID: 8300000, guid: 114aeb078b342d84b9513e0f041f9f56, type: 3}
